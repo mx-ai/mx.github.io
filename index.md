@@ -11,14 +11,8 @@
       <img src="/zhengjianzhao.jpg" width="100%">      % ！[image](https://github.com/mx-ai/mx.github.io/blob/gh-pages/F566048B91FB9EB2B14C2C8DF201529F.jpg)
     </td>
   </tr>
-</table>###个人信息
-####姓名：穆欣
-####学历：本科
-####学校：浙江万里学院
-####邮箱：2740516172@qq.com 
-###最新消息
+</table>
+研究方向-网络空间安全
 
-###研究方向-网络空间安全
 
-###荣誉奖励
 
