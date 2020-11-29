@@ -8,7 +8,7 @@
       <p><b>地址：陕西省汉中市洋县，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % https://github.com/mx-ai/mx.github.io/blob/gh-pages/F566048B91FB9EB2B14C2C8DF201529F.jpg
+      <img src="/zhengjianzhao.jpg" width="100%">      % F566048B91FB9EB2B14C2C8DF201529F.jpg
     </td>
   </tr>
 </table>
